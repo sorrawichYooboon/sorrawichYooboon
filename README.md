@@ -11,7 +11,7 @@ Hello everyone! I'm Ko, and I have a passion for everything related to technolog
 * 🚀  I'm currently working on [Thai Beverage Recycle | Bangkok](http://www.thaibeveragerecycle.com/)
 * 🧠  I'm learning VueJs, Flutter, Spring boot and Flask
 
-### Skills
+### Skills 
 
 
 <p align="left">
