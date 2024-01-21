@@ -8,7 +8,7 @@ Hello everyone! I'm Ko, and I have a passion for everything related to technolog
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [sorrawich.y@gmail.com](mailto:sorrawich.y@gmail.com)
-* 🚀  I'm currently working on [Thai Beverage Recycle | Bangkok](http://www.thaibeveragerecycle.com/)
+* 🚀  I'm currently working on [Thai Beverage | Bangkok](https://www.thaibev.com/)
 * 🧠  I'm learning VueJs, Flutter, Spring boot and Flask
 
 ### Skills 
