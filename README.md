@@ -11,6 +11,9 @@ Hello everyone! I'm Ko, and I have a passion for everything related to technolog
 * 🚀  I'm currently working on [Thai Beverage | Bangkok](https://www.thaibev.com/)
 * 🧠  I'm learning VueJs, Flutter, Spring boot and Flask
 
+* 💻 [Leet Code](https://leetcode.com/u/sorrawichUboon/)
+* 👾 [My clicker game - Create by ThreeJS](https://flowech-website.vercel.app)
+
 ### Skills 
 
 
