@@ -6,13 +6,15 @@ Full Stack Developer
 
 Hello everyone! I'm Ko, and I have a passion for everything related to technology. I enjoy every time I get to see and learn about new technologies.
 
-* 🌍  I'm based in Thailand
-* ✉️  You can contact me at [sorrawich.y@gmail.com](mailto:sorrawich.y@gmail.com)
-* 🚀  I'm currently working on [Thai Beverage | Bangkok](https://www.thaibev.com/)
-* 🧠  I'm learning VueJs, Flutter, Spring boot and Flask
-
+* 🧠  I have 3 years of experience in software development.
 * 💻 [Leet Code](https://leetcode.com/u/sorrawichUboon/)
-* 👾 [My clicker game - Created by ThreeJS](https://flowech-website.vercel.app)
+* 📱 [My clicker game - Created by ThreeJS](https://flowech-website.vercel.app)
+* 👾 My education app - MemoViz: Learn with Flashcards
+     - [IOS](https://apps.apple.com/us/app/memoviz-learn-with-flashcards/id6504450968)
+     - [Android](https://play.google.com/store/apps/details?id=com.memoviz&pcampaignid=web_share)
+* 🚀  Most recently worked at [Thai Beverage | Bangkok](https://www.thaibev.com/)
+* ✉️  You can contact me at [sorrawich.y@gmail.com](mailto:sorrawich.y@gmail.com)
+* 🌍  I'm based in Thailand
 
 ### Skills 
 
