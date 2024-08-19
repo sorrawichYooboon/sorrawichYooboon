@@ -8,8 +8,8 @@ Hello everyone! I'm Ko, and I have a passion for everything related to technolog
 
 * 🧠  I have 3 years of experience in software development.
 * 💻 [Leet Code](https://leetcode.com/u/sorrawichUboon/)
-* 📱 [My clicker game - Created by ThreeJS](https://flowech-website.vercel.app)
-* 👾 My education app - MemoViz: Learn with Flashcards
+* 👾 [Clicker game - My Game](https://flowech-website.vercel.app)
+* 📱 MemoViz: Learn with Flashcards - My Education App
      - [IOS](https://apps.apple.com/us/app/memoviz-learn-with-flashcards/id6504450968)
      - [Android](https://play.google.com/store/apps/details?id=com.memoviz&pcampaignid=web_share)
 * 🚀  Most recently worked at [Thai Beverage | Bangkok](https://www.thaibev.com/)
