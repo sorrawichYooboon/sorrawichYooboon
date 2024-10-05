@@ -12,7 +12,7 @@ Hello everyone! I'm Ko, and I have a passion for everything related to technolog
 * 👾 [Clicker game - My Game](https://flowech-website.vercel.app)
 * 💻 [Leet Code](https://leetcode.com/u/sorrawichUboon/)
 * 🧠  I have 3 years of experience in software development.
-* 🚀  Most recently worked at [Thai Beverage | Bangkok](https://www.thaibev.com/)
+* 🚀  Most recently worked at [Kiatnakin Phatra Bank | Bangkok](https://bank.kkpfg.com/th/home)
 * ✉️  You can contact me at [sorrawich.y@gmail.com](mailto:sorrawich.y@gmail.com)
 * 🌍  I'm based in Thailand
 
