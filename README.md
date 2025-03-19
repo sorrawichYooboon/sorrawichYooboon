@@ -6,7 +6,7 @@ Software Engineer
 
 Hello everyone! I'm Ko, and I have a passion for everything related to technology. I enjoy every time I get to see and learn about new technologies.
 
-* 📱 MemoViz: Learn with Flashcards - My Education App
+* 📱 MemoViz: Learn with Flashcards - My Education App 
      - [IOS](https://apps.apple.com/us/app/memoviz-learn-with-flashcards/id6504450968)
      - [Android](https://play.google.com/store/apps/details?id=com.memoviz&pcampaignid=web_share)
 * 👾 [Clicker game - My Game](https://flowech-website.vercel.app)
