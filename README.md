@@ -13,7 +13,7 @@ Hello everyone! I'm Ko, and I have a passion for everything related to technolog
      - [IOS](https://apps.apple.com/th/app/arrow-escape-block-puzzle/id6757364917)
      - [Android](https://play.google.com/store/apps/details?id=com.sorrawich.arrowescapeblockpuzzle)
 * 👾 [Clicker game - My Game](https://flowech-website.vercel.app)
-* 🧠  I have 4 years of experience in software development.
+* 🧠  I have 5 years of experience in software development.
 * 🚀  Most recently worked at [Kiatnakin Phatra Bank | Bangkok](https://bank.kkpfg.com/th/home)
 * ✉️  You can contact me at [sorrawich.y@gmail.com](mailto:sorrawich.y@gmail.com)
 * 🌍  I'm based in Thailand
