@@ -14,7 +14,7 @@ Hello everyone! I'm Ko, and I have a passion for everything related to technolog
 * 🚀  Most recently worked at [Kiatnakin Phatra Bank | Bangkok](https://bank.kkpfg.com/th/home)
 * ✉️  You can contact me at [sorrawich.y@gmail.com](mailto:sorrawich.y@gmail.com)
 * 🌍  I'm based in Thailand
-* 
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/sorrawichYooboon" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
