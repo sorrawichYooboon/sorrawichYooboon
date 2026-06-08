@@ -6,7 +6,7 @@ Software Engineer
 
 Hello everyone! I'm Ko, and I have a passion for everything related to technology. I enjoy every time I get to see and learn about new technologies.
 
-* 🌳 [JaiFlow - Relax App](https://jaiflow-dev.vercel.app/)
+* 🌳 [JaiFlow - Wellness web app](https://jaiflow-dev.vercel.app/)
 * 🚀 Arrow Escape: Block Puzzle - My Puzzle Game App
      - [IOS](https://apps.apple.com/th/app/arrow-escape-block-puzzle/id6757364917)
      - [Android](https://play.google.com/store/apps/details?id=com.sorrawich.arrowescapeblockpuzzle)
